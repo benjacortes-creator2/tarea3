@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1595028825 source:c:\users\poler\desktop\tarea3\main (1).c
+	<stdio.h>
+	<stdlib.h>
+	"SortedMap.h"
+
+1595125529 c:\users\poler\desktop\tarea3\sortedmap.h
+
+1595028873 source:c:\users\poler\desktop\tarea3\main (2).c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Map.h"
+
+1595028874 c:\users\poler\desktop\tarea3\map.h
+
+1595028874 source:c:\users\poler\desktop\tarea3\map.c
+	"Map.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdint.h>
+	<assert.h>
+
+1595028826 source:c:\users\poler\desktop\tarea3\sortedmap (1).c
+	"SortedMap.h"
+	<stdlib.h>
+	<assert.h>
+
+1595125529 source:c:\users\poler\desktop\tarea3\sortedmap.c
+	"SortedMap.h"
+	<stdlib.h>
+	<assert.h>
+
+1595028920 source:c:\users\poler\desktop\tarea3\list.c
+	"list.h"
+	<stdlib.h>
+	<assert.h>
+
+1595028919 c:\users\poler\desktop\tarea3\list.h
+
+1595141489 source:c:\users\poler\desktop\tarea3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Map.h"
+	"list.h"
+	"SortedMap.h"
+
